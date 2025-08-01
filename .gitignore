@@ -1,0 +1,4 @@
+# IGnore compiled binary
+server
+# IGnore object files
+*.o
